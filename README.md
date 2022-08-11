@@ -11,10 +11,9 @@
 
 * Projects [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023)
 * SASS [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
+<!-- 
 * CSS [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedCSS.md)
 * HTML [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
-
-<!-- 
 * Resources [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedResources.md)
 * JavaScript [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
 -->
