@@ -1,0 +1,39 @@
+# Web Developer Study
+## 12 months web developer study. I decided to dedicate at least 12 months to learn web development.
+
+![Begin Banner](/Documentation/top-1200x350.gif)
+
+* Online courses, challenges and creation of my own projects.
+
+## What I learned/used 
+### SASS 
+* Syntactically awesome style sheets (SASS) 
+    * documente .extention
+        * .sass
+        * .scss (most commun)
+    * config
+        * live sass compiler
+        * config sass
+            * open setting JSON
+                * "liveSassCompile.settings.formats": [
+                    {
+                        "format": "expanded",
+                        "extensionName": ".css",
+                        "savePath": "/dist",
+                        "savePathReplacementPairs": null
+                    }
+                ]
+    * Partials
+        * folder global
+            * _name.scss (start the name with _ ) -> _name.scss
+            * @forward 'name';
+    * variable
+        * :root{}
+        * sass modules
+        * @use 'name' as 'abreviation'
+    * Responsive 
+        * <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    * SASS & BEM
+    
+
+![End Banner](/Documentation/botton-1200x350.gif)
