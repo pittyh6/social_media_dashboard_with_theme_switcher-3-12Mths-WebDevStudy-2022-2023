@@ -34,7 +34,7 @@
 * (2 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/cypressIo_Testing-yr-first-application-12Mths-WebDevStudy-2022-2023) (Cypress - Cypress.io)
 * (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/Easybank-Challenge_3-12Mths-WebDevStudy-2022-2023) (Easybank Challenge - frontend)
 * (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023) (CSS Grid - The net ninja)
-* (3 mth) 12Mths Web Development Study [link]() (CSS Transition - codeAcademy)
+* (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023) (CSS Transition - codeAcademy)
 
 
 ## Management Tools
