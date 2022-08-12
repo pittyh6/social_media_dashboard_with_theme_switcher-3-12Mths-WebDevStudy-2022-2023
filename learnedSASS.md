@@ -41,6 +41,9 @@
             * margin-inline-start / margin-inline-end
         * min() =>  take 2 parameter and choose the small values between to.
             * width: min(100%, 1000px);
+    * sass mixins and build-in modules
+        * media query
+        * sass map
         
 
 ![End Banner](/Documentation/botton-1200x350.gif)
