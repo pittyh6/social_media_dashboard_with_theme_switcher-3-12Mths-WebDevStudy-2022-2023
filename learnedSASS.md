@@ -34,6 +34,13 @@
     * Responsive 
         * <meta name="viewport" content="width=device-width, initial-scale=1.0">
     * SASS & BEM
-    
+    * setting widths
+        * max-width
+        * margin:
+        * margin-inline => only affects left and right
+            * margin-inline-start / margin-inline-end
+        * min() =>  take 2 parameter and choose the small values between to.
+            * width: min(100%, 1000px);
+        
 
 ![End Banner](/Documentation/botton-1200x350.gif)

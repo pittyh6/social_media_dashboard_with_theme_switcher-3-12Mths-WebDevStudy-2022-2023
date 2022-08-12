@@ -39,11 +39,19 @@ a, a:visited, a:active {
   grid-template-columns: 1fr;
   grid-template-rows: auto auto;
   gap: 40px;
+  width: min(100%, 1000px);
+  margin-inline: auto;
 }
 @media (min-width: 900px) {
   .grid {
     grid-template-columns: 2fr 1fr;
     grid-template-rows: auto;
+  }
+}
+@media (max-width: 899px) {
+  .grid {
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 .grid__main, .grid__sidebar {

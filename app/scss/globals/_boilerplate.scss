@@ -13,4 +13,6 @@ body{
     font-family: u.$font;
     background-color: var(--background-color);
     color: var(--text-color);
+    // display: grid; // you can use flex here, and it is going to work at same way.
+    // justify-content: center;
 }
