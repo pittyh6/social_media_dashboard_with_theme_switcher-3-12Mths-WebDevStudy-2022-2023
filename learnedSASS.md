@@ -44,6 +44,7 @@
     * sass mixins and build-in modules
         * media query
         * sass map
-        
+    * order of media queries matter due to the cascade.
+    
 
 ![End Banner](/Documentation/botton-1200x350.gif)

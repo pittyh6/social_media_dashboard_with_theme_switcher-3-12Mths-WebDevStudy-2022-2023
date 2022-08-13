@@ -57,7 +57,7 @@ a, a:visited, a:active {
 .grid__sidebar {
   background-color: hsla(300deg, 96%, 17%, 0.433);
 }
-@media (max-width: 56.25em) {
+@media (max-width: 56.24875em) {
   .grid__sidebar {
     text-align: center;
   }

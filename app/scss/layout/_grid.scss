@@ -31,7 +31,7 @@
     &__sidebar{
         background-color: hsla(300, 96%, 17%, 0.433);
 
-        @media (max-width: 56.25em){
+        @include u.breakpoint-down(medium){
             text-align: center;
         }
     }
