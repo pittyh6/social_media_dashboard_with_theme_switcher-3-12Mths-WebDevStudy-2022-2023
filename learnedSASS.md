@@ -45,6 +45,14 @@
         * media query
         * sass map
     * order of media queries matter due to the cascade.
-    
+    * typography
+    * viewport width and height => 1 viewport unit is equal a 1% of the device width or height. phone 375px wide and the vw is equal to 3.75. large screan 1920px and vw is 19.2px
+        * vw -> viewport width
+        * vh -> viewport height
+    * calc( 16px + 2vw)
+    * clamp() -> set a min and max value 
+        * clamp(min, prefer, max)
+            * clamp(28px, 16px + 2vw, 40px);
+
 
 ![End Banner](/Documentation/botton-1200x350.gif)
