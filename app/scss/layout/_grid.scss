@@ -6,7 +6,7 @@
     grid-template-rows: auto auto;
     gap: u.rem(40);
     //max-width: 1000px;
-    width: min(100% - u.rem(40), 1000px);
+    width: min(100% - u.rem(40), u.rem(1000));
     margin-inline: auto;
     
 

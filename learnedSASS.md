@@ -59,5 +59,9 @@
             * em -> base on font-size of their parents not on base of the browser.
     * functions
     * media queries
+        * use em units in media queries
+    * Nesting and BEM
+        
+
 
 ![End Banner](/Documentation/botton-1200x350.gif)
