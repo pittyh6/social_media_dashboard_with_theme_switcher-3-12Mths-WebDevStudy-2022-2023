@@ -58,6 +58,6 @@
             * rem -> 1 rem is equal your base font size (browser). The default is 16px.
             * em -> base on font-size of their parents not on base of the browser.
     * functions
-        
+    * media queries
 
 ![End Banner](/Documentation/botton-1200x350.gif)
