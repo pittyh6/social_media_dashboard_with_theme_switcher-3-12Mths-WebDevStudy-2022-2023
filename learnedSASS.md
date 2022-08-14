@@ -53,6 +53,11 @@
     * clamp() -> set a min and max value 
         * clamp(min, prefer, max)
             * clamp(28px, 16px + 2vw, 40px);
-
+    * why shouldn't use pixels.
+        * use the relative unit
+            * rem -> 1 rem is equal your base font size (browser). The default is 16px.
+            * em -> base on font-size of their parents not on base of the browser.
+    * functions
+        
 
 ![End Banner](/Documentation/botton-1200x350.gif)
