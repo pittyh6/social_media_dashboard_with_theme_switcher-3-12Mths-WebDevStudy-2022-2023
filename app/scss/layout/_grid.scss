@@ -35,8 +35,6 @@
         }
     }
     &__sidebar{
-        background-color: hsla(300, 96%, 17%, 0.433);
-
         @include u.breakpoint-down(medium){
             text-align: center;
         }
@@ -44,5 +42,8 @@
         @include u.breakpoint-down(small){
             text-align: right;
         }
+    }
+    &__widget{
+        background-color: hsla(300, 96%, 17%, 0.433);
     }
 }
