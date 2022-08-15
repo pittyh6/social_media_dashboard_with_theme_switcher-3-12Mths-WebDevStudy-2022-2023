@@ -2,3 +2,10 @@
     --background-color: hsl(0, 1%, 23%);
     --text-color: hsl(0, 0%, 100%);
 }
+
+.green{ //helper/utility class
+    background-color: hsl(120, 82%, 11%);
+}
+.magenta{
+    background-color: hsla(300, 96%, 17%, 0.433);
+}
