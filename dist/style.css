@@ -43,6 +43,10 @@ a, a:visited, a:active {
   --text-color: hsl(0, 0%, 100%);
 }
 
+.grid__widget--magenta, .grid__widget--green {
+  padding: 1rem;
+}
+
 .grid {
   display: grid;
   grid-template-columns: 1fr;
@@ -83,6 +87,9 @@ a, a:visited, a:active {
     text-align: right;
   }
 }
-.grid__widget {
+.grid__widget--green {
+  background-color: hsl(120deg, 82%, 11%);
+}
+.grid__widget--magenta {
   background-color: hsla(300deg, 96%, 17%, 0.433);
 }/*# sourceMappingURL=style.css.map */

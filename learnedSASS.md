@@ -61,7 +61,10 @@
     * media queries
         * use em units in media queries
     * Nesting and BEM
-        
+    * BEM modifier
+    * placeholder
+        * @extend
+    * helper/ utility classes
 
 
 ![End Banner](/Documentation/botton-1200x350.gif)
