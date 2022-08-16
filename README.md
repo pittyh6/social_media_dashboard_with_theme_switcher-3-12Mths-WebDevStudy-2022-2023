@@ -1,6 +1,6 @@
 # Web Developer Study
 ## 12 months web developer study. I decided to dedicate at least 12 months to learn web development.
-## SASS, BEM & Responsive - Tutorial (Youtube)
+## Challenge HTML, CSS, SASS and JavaScript by frontendMentor
 
 ![Begin Banner](/Documentation/top-1200x350.gif)
 
@@ -35,6 +35,7 @@
 * (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/Easybank-Challenge_3-12Mths-WebDevStudy-2022-2023) (Easybank Challenge - frontend)
 * (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023) (CSS Grid - The net ninja)
 * (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023) (CSS Transition - codeAcademy)
+* (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023) (SASS & BEM - coder coder)
 
 
 ## Management Tools

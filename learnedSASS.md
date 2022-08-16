@@ -8,63 +8,6 @@
 ## What I learned/used 
 ### SASS 
 * Syntactically awesome style sheets (SASS) 
-    * documente .extention
-        * .sass
-        * .scss (most commun)
-    * config
-        * live sass compiler
-        * config sass
-            * open setting JSON
-                * "liveSassCompile.settings.formats": [
-                    {
-                        "format": "expanded",
-                        "extensionName": ".css",
-                        "savePath": "/dist",
-                        "savePathReplacementPairs": null
-                    }
-                ]
-    * Partials
-        * folder global
-            * _name.scss (start the name with _ ) -> _name.scss
-            * @forward 'name';
-    * variable
-        * :root{}
-        * sass modules
-        * @use 'name' as 'abreviation'
-    * Responsive 
-        * <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    * SASS & BEM
-    * setting widths
-        * max-width
-        * margin:
-        * margin-inline => only affects left and right
-            * margin-inline-start / margin-inline-end
-        * min() =>  take 2 parameter and choose the small values between to.
-            * width: min(100%, 1000px);
-    * sass mixins and build-in modules
-        * media query
-        * sass map
-    * order of media queries matter due to the cascade.
-    * typography
-    * viewport width and height => 1 viewport unit is equal a 1% of the device width or height. phone 375px wide and the vw is equal to 3.75. large screan 1920px and vw is 19.2px
-        * vw -> viewport width
-        * vh -> viewport height
-    * calc( 16px + 2vw)
-    * clamp() -> set a min and max value 
-        * clamp(min, prefer, max)
-            * clamp(28px, 16px + 2vw, 40px);
-    * why shouldn't use pixels.
-        * use the relative unit
-            * rem -> 1 rem is equal your base font size (browser). The default is 16px.
-            * em -> base on font-size of their parents not on base of the browser.
-    * functions
-    * media queries
-        * use em units in media queries
-    * Nesting and BEM
-    * BEM modifier
-    * placeholder
-        * @extend
-    * helper/ utility classes
-
+   
 
 ![End Banner](/Documentation/botton-1200x350.gif)
